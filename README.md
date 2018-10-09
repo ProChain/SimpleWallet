@@ -1,3 +1,12 @@
+般若支持simplewallet 协议中的扫描和scheme模式 
+
+其中由于ios只支持注册一个相同的scheme头的原因， prabox的ios版本的scheme唤起方式为
+
+
+simplewallet-pra://eos.io?param={json数据}
+
+
+
 # SimpleWallet 协议文档 
 
 版本：1.0
